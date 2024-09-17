@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    gap: 12px;
+    flex-direction: column;
+}
+
+.listItem {
+    border: 1px solid #111;
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
+    width: 200px;
+    border-radius: 5px;
+    padding: 4px;
+}

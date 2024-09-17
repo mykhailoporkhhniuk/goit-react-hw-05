@@ -1,0 +1,14 @@
+.list {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.link {
+    text-decoration: underline;
+    color: rgb(42, 64, 255);
+}
+
+.link:hover {
+    color: rgb(255, 166, 0);
+}
